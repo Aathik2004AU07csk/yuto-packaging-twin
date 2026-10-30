@@ -68,7 +68,6 @@ with tab3:
 [14:12:04] MAGNETIC CLOSURE TEST: 12N Pull Force (Spec Met)
 [14:12:05] FINAL AOI VERDICT: APPROVED FOR PACKAGING.
             """)
-            st.balloons()
 
 with tab4:
     st.subheader("Problem 4 Solved: Rapid Press Changeover Downtime")
